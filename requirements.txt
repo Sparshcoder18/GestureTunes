@@ -1,0 +1,15 @@
+opencv-python==4.9.0.80
+mediapipe==0.10.9
+spotipy==2.23.0
+python-dotenv==1.0.1
+
+# If you use any of these while working, uncomment accordingly:
+# numpy==1.24.4      # Automatically included via OpenCV and Mediapipe
+# absl-py==2.1.0     # Used internally by Mediapipe for logging (included by default)
+
+📌 How to Install from This File
+# You (or anyone cloning your repo) can install everything using:
+
+pip install -r requirements.txt
+
+# Make sure this file is in the root of your project folder before pushing.

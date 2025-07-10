@@ -1,8 +1,10 @@
 __pycache__/
 *.pyc
 .env
-logs/
+logs/*.txt
 .vscode/
 .idea/
 Docs/
 .cache
+gesture-env/
+__pycache__/

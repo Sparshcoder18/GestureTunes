@@ -1,10 +1,9 @@
 __pycache__/
 *.pyc
 .env
-logs/*.txt
 .vscode/
 .idea/
 Docs/
 .cache
 gesture-env/
-__pycache__/
+.venv/

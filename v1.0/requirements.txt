@@ -1,0 +1,9 @@
+# Core requirements
+opencv-python==4.9.0.80
+mediapipe==0.10.21
+spotipy==2.23.0
+python-dotenv==1.0.1
+
+# Optional dependencies (uncomment if needed)
+numpy==1.24.4        # OpenCV & Mediapipe usually pull this in
+absl-py==2.1.0       # Mediapipe dependency, installed automatically
